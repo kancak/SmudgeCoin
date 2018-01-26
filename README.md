@@ -1,0 +1,2 @@
+# SmudgeCoin
+Puppy Coin
